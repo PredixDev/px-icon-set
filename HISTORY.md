@@ -1,3 +1,7 @@
+v2.2.0
+=======
+* allow user to override stroke-width by css var
+
 v2.1.11
 =======
 * add px-vis:reset
