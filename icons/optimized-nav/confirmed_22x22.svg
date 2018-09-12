@@ -2,6 +2,6 @@
   <title>
     confirmed_22x22
   </title>
-  <circle cx="11" cy="11" r="10"/>
-  <path d="M5.8 10.9l3.6 3.6 7.1-7.1"/>
+  <circle cx="11" cy="11" r="10" stroke-linejoin="round"/>
+  <path stroke-linejoin="round" d="M5.8 10.9l3.6 3.6 7.1-7.1"/>
 </svg>

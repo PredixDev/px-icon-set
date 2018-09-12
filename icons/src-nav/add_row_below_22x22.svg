@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 22 22" style="enable-background:new 0 0 22 22;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#4C6472;}
+	.st1{fill:none;stroke:#4C6472;stroke-linejoin:round;}
+	.st2{fill:none;stroke:#4C6472;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<title>add_row_below_22x22</title>
+<desc>Created with Sketch.</desc>
+<line class="st0" x1="2" y1="9.5" x2="18" y2="9.5"/>
+<line class="st0" x1="2" y1="5.5" x2="18" y2="5.5"/>
+<line class="st1" x1="2.6" y1="17.5" x2="7.4" y2="17.5"/>
+<polyline class="st1" points="4.1,15.8 2.3,17.5 4.1,19.2 "/>
+<rect x="9.5" y="14.5" class="st1" width="11" height="6"/>
+<polyline class="st2" points="2,1.2 17.6,1.2 17.6,11.8 "/>
+</svg>

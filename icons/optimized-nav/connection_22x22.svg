@@ -2,8 +2,8 @@
   <title>
     connection_22x22
   </title>
-  <circle cx="15.89" cy="3.37" r="2.87"/>
-  <path d="M13.5 5.77l-7.66 7.65"/>
-  <circle cx="3.37" cy="15.59" r="2.87"/>
-  <path d="M14.94 11.22v6.7m3.35-3.35h-6.7"/>
+  <circle cx="15.89" cy="3.37" r="2.87" stroke-linejoin="round"/>
+  <path stroke-miterlimit="10" stroke-dasharray="1 1" d="M13.5 5.77l-7.66 7.65"/>
+  <circle cx="3.37" cy="15.59" r="2.87" stroke-linejoin="round"/>
+  <path stroke-linejoin="round" d="M14.94 11.22v6.7m3.35-3.35h-6.7"/>
 </svg>
