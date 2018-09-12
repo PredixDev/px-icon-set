@@ -1,3 +1,7 @@
+v2.2.1
+=======
+* Added px-nav:add-column-left, px-nav:add-column-right, px-nav:add-row-above, px-nav:add-row-below, px-nav:delete-column, px-nav:delete-row
+
 v2.2.0
 =======
 * allow user to override stroke-width by css var
