@@ -3,13 +3,16 @@
     data_resolution_22x22
   </title>
   <g>
-    <path d="M5.552 12.372l1.29-2.59m1.77-.68l3.88 3.26m1.5-1.53l.33-1.35m3.62.3l.87-2.58m-3.34 1.66l1.54 1.69m-5.61 1.47v7.85m0-18.31v7.85"/>
-    <circle r="1.31" cy="8.542" cx="7.482"/>
-    <circle r="1.31" cy="13.772" cx="4.862"/>
-    <circle r="1.31" cy="12.902" cx="13.582"/>
-    <circle r="1.31" cy="11.152" cx="17.942"/>
-    <circle r="1.31" cy="8.542" cx="14.452"/>
-    <circle r="1.31" cy="5.922" cx="18.822"/>
-    <path d="M1.812 1.562v18.75h18.75"/>
+    <path stroke-miterlimit="10" d="M1.812 20.752"/>
+    <path stroke-miterlimit="10" stroke-linecap="square" d="M5.552 12.372l1.29-2.59"/>
+    <path stroke-linejoin="round" d="M8.612 9.102l3.88 3.26m1.5-1.53l.33-1.35m3.62.3l.87-2.58m-3.34 1.66l1.54 1.69"/>
+    <path stroke-dasharray="1 1" stroke-miterlimit="10" d="M11.402 12.022v7.85m0-18.31v7.85"/>
+    <circle stroke-miterlimit="10" r="1.31" cy="8.542" cx="7.482"/>
+    <circle stroke-miterlimit="10" r="1.31" cy="13.772" cx="4.862"/>
+    <circle stroke-miterlimit="10" r="1.31" cy="12.902" cx="13.582"/>
+    <circle stroke-miterlimit="10" r="1.31" cy="11.152" cx="17.942"/>
+    <circle stroke-miterlimit="10" r="1.31" cy="8.542" cx="14.452"/>
+    <circle stroke-miterlimit="10" r="1.31" cy="5.922" cx="18.822"/>
+    <path stroke-miterlimit="10" d="M1.812 1.562v18.75h18.75"/>
   </g>
 </svg>

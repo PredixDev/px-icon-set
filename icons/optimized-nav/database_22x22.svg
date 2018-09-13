@@ -2,8 +2,8 @@
   <title>
     database_22x22
   </title>
-  <path d="M.51 5v2.6c0 3.22 17.76 3.22 17.76 0V5"/>
-  <path d="M.51 9.68v2.75c0 3 17.76 3 17.76 0V9.68"/>
-  <path d="M.51 14.36v2.94c0 2.8 17.76 2.8 17.76 0v-2.94"/>
-  <ellipse cx="9.39" cy="2.84" rx="8.89" ry="2.34"/>
+  <path d="M.51 5v2.6c0 3.22 17.76 3.22 17.76 0V5" stroke-miterlimit="10"/>
+  <path d="M.51 9.68v2.75c0 3 17.76 3 17.76 0V9.68" stroke-miterlimit="10"/>
+  <path d="M.51 14.36v2.94c0 2.8 17.76 2.8 17.76 0v-2.94" stroke-miterlimit="10"/>
+  <ellipse cx="9.39" cy="2.84" rx="8.89" ry="2.34" stroke-miterlimit="10"/>
 </svg>
