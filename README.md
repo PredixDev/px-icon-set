@@ -1,4 +1,4 @@
-# px-icon-set [![Build Status](https://travis-ci.org/PredixDev/px-icon-set.svg?branch=master)](https://travis-ci.org/PredixDev/px-icon-set)
+# px-icon-set [![Build Status](https://travis-ci.org/predixdesignsystem/px-icon-set.svg?branch=master)](https://travis-ci.org/predixdesignsystem/px-icon-set)
 
 
 ## Overview
@@ -68,4 +68,4 @@ Navigate to the root of that server (e.g. http://localhost:8080/) in a browser t
 
 ## Known Issues
 
-Please use [Github Issues](https://github.com/PredixDev/px-icon-set/issues) to submit any bugs you might find.
+Please use [Github Issues](https://github.com/predixdesignsystem/px-icon-set/issues) to submit any bugs you might find.

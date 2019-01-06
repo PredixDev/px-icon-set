@@ -22,10 +22,9 @@ limitations under the License.
   <template>
     <style>
       :host {
-        /* Create some vars we can manipulate asour icons change*/
+        /* Create some vars we can manipulate as our icons change*/
         --px-icon-default-width: 22px;
         --px-icon-default-height: 22px;
-        --px-icon-stroke-width: 1;
 
         /* Update iron-icon vars so we can overwrite */
         --iron-icon-width: var(--px-icon-default-width);
@@ -46,7 +45,7 @@ limitations under the License.
 
         width: var(--iron-icon-width);
         height: var(--iron-icon-height);
-        stroke-width: var(--px-icon-stroke-width);
+        stroke-width: var(--px-icon-stroke-width, 1);
         @apply --iron-icon;
       }
       /* Also copied exactly from iron-icon */
