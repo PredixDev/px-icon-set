@@ -1,3 +1,7 @@
+v2.2.2
+======
+* Stroke width can now be set from parent elements
+
 v2.2.1
 =======
 * Added px-nav:add-column-left, px-nav:add-column-right, px-nav:add-row-above, px-nav:add-row-below, px-nav:delete-column, px-nav:delete-row
