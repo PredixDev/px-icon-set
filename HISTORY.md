@@ -1,3 +1,7 @@
+v2.2.3
+======
+* Added px-fea:key 
+
 v2.2.2
 ======
 * Stroke width can now be set from parent elements
