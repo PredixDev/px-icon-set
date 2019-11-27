@@ -1,4 +1,4 @@
-<!--
+/*
 Copyright (c) 2018, General Electric
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -12,14 +12,20 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
--->
+*/
+/*
+  FIXME(polymer-modulizer): the above comments were extracted
+  from HTML and may be out of place here. Review them and
+  then delete this comment!
+*/
+import '@polymer/polymer/polymer-legacy.js';
 
-<link rel="import" href="../polymer/polymer.html"/>
-<link rel="import" href="../iron-flex-layout/iron-flex-layout.html"/>
-<link rel="import" href="../iron-icon/iron-icon.html"/>
-
-<dom-module id="px-icon">
-  <template>
+import '@polymer/iron-flex-layout/iron-flex-layout.js';
+import '@polymer/iron-icon/iron-icon.js';
+import { Polymer } from '@polymer/polymer/lib/legacy/polymer-fn.js';
+import { html } from '@polymer/polymer/lib/utils/html-tag.js';
+Polymer({
+  _template: html`
     <style>
       :host {
         /* Create some vars we can manipulate as our icons change*/
@@ -72,22 +78,20 @@ limitations under the License.
       }
     </style>
     <iron-icon icon="[[icon]]"></iron-icon>
-  </template>
-</dom-module>
-<script>
-  Polymer({
-    is:'px-icon',
-    properties: {
-      icon: {
-        type: String,
-        reflectToAttribute: true,
-        observer: '_updateStylesIndirect'
-      }
-    },
+`,
 
-    _updateStylesIndirect: function() {
-      //calling this without argument
-      this.updateStyles();
+  is:'px-icon',
+
+  properties: {
+    icon: {
+      type: String,
+      reflectToAttribute: true,
+      observer: '_updateStylesIndirect'
     }
-  })
-</script>
+  },
+
+  _updateStylesIndirect: function() {
+    //calling this without argument
+    this.updateStyles();
+  }
+})
