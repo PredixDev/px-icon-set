@@ -3,6 +3,6 @@
 <g id="Document_Word">
 <polyline points="3.5 14 3.5 15.5 15.5 15.5 15.5 3.5 12.5 0.5 3.5 0.5 3.5 7" fill="none" stroke="#4c6472" stroke-linejoin="round"/>
 <polyline points="11.5 0.5 11.5 4.5 15.5 4.5" fill="none" stroke="#4c6472" stroke-linejoin="round"/>
-<text transform="translate(-0.32 13)" font-size="7" fill="#4c6472" font-weight="700" letter-spacing="0em">DOC</text>
+<text stroke="none" transform="translate(-0.32 13)" font-size="7" font-family="GE Inspira Sans, sans-serif" fill="#4c6472" font-weight="700" letter-spacing="0em">DOC</text>
 </g>
 </svg>

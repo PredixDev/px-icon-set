@@ -7,6 +7,6 @@
    <line stroke="#4c6472" x1="14.87282" y1="7.72766" x2="11.85495" y2="10.74553" fill="none" stroke-linejoin="round"/>
    <line stroke="#4c6472" x1="4.6875" y1="8.48213" x2="6.95091" y2="8.48213" fill="none" stroke-linejoin="round"/>
    <line stroke="#4c6472" x1="4.6875" y1="9.99107" x2="6.95091" y2="9.99107" fill="none" stroke-linejoin="round"/>
-   <text transform="matrix(0.7583923935890198,0,0,0.7583923935890198,0.08682773355394602,2.86909032613039) " stroke="null" font-size="8" fill="#4c6472" font-weight="700" y="10.23" x="0.3675">y</text>
+   <text stroke="none" transform="matrix(0.7583923935890198,0,0,0.7583923935890198,0.08682773355394602,2.86909032613039) " font-size="8" font-family="GE Inspira Sans, sans-serif" fill="#4c6472" font-weight="700" y="10.23" x="0.3675">y</text>
  </g>
 </svg>

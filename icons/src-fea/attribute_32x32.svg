@@ -6,6 +6,6 @@
   <line stroke-linejoin="round" stroke="#4c6472" fill="none" y2="23.5" x2="24.31246" y1="23.5" x1="8.31246"/>
   <line stroke-linejoin="round" stroke="#4c6472" fill="none" y2="26.5" x2="22.31246" y1="26.5" x1="10.31246"/>
   <circle fill="#4c6472" r="1.5" cy="6.5" cx="16.31246"/>
-  <text x="6" y="19.97" fill="#4c6472" font-size="12">123</text>
+  <text stroke="none" x="6" y="19.97" fill="#4c6472" font-size="12" font-family="GE Inspira Sans, sans-serif">123</text>
  </g>
 </svg>
